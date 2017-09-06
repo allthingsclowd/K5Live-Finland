@@ -1,0 +1,12 @@
+{
+  "name": "blue",
+  "version": "1.0.0",
+  "description": "Simple Blue Green Demo CF Application for K5 Live",
+  "main": "Blue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Blue.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
