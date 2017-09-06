@@ -1,0 +1,1 @@
+cf create-user-provided-service k5-iaas-mongo-db -p '{ "uri": "mongodb://cfdemoadmin:cfd3m0admin@62.60.46.199:27017/cloudfoundry" }'
